@@ -1,0 +1,2 @@
+$ touch CNAME
+$ echo 'www.ygh999.com'> CNAME 
